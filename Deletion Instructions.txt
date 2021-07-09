@@ -1,0 +1,2 @@
+1. Signout form the application
+2. Uninstall the Application
